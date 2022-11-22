@@ -48,7 +48,7 @@ function App() {
   }, [todos]);
 
   return (
-    <div>
+    <div className="body">
       <Router>
         <Header title="ToDoList" searchbar={true} />
 
