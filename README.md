@@ -1,2 +1,1 @@
-# Mini_Projects
-These are some of my mini projects for web development
+REACT JS, MONGODB, EXPRESS and JAVASCRIPT are used in projects
